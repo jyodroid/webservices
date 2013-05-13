@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urls>
+  <url>http://localhost:8080/WsCalc1Server/wsCalc1?WSDL</url>
+  <url>http://localhost:8080/WsCalc2Server/wsCalc2?WSDL</url>
+</urls>
